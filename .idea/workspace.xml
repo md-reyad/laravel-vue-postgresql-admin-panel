@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5863a773-418a-4f71-b069-d626f2902845" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/js/app.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/AddPost.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/AllPosts.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/components/EditPost.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/js/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="5863a773-418a-4f71-b069-d626f2902845" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -183,7 +167,7 @@
       <workItem from="1609238912106" duration="4201000" />
       <workItem from="1609301718009" duration="6509000" />
       <workItem from="1609313208252" duration="9491000" />
-      <workItem from="1609399623092" duration="7551000" />
+      <workItem from="1609399623092" duration="8207000" />
     </task>
     <servers />
   </component>
